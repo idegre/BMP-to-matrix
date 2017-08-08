@@ -1,0 +1,3 @@
+this is a small library that allows you to import uncompressed BMP images to a set of 3 matrixes in memory and work with them.
+It also allows for exporting matrixes into BMP images.
+the biggest issues are the inability of the library to not attempt and import compressed BMP images and crash.
