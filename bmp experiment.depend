@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1497814923 source:c:\users\nacho\desktop\bmp experiment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1497814942 source:c:\users\nacho\desktop\bmp experiment\bmpherr.c
+	"bmpherr.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1497814969 c:\users\nacho\desktop\bmp experiment\bmpherr.h
+
