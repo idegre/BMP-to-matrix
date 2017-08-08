@@ -1,3 +1,5 @@
 this is a small library that allows you to import uncompressed BMP images to a set of 3 matrixes in memory and work with them.
 It also allows for exporting matrixes into BMP images.
 the biggest issues are the inability of the library to not attempt and import compressed BMP images and crash.
+the project also contains the main.c with some example code. which generates a 5x5 red image.
+in order to go from matrix to file the function genera_imagen_vec takes the image as a matrix and generates a char array wich is the file as it should be written.
